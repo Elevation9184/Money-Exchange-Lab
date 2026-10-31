@@ -1,0 +1,95 @@
+{
+  "household": {
+    "agents": 750,
+    "months": 360,
+    "replications": 12,
+    "seed": 20261101,
+    "income": 4000,
+    "initial": 1000,
+    "initialGini": 0,
+    "initialLink": "independent",
+    "essentials": 2000,
+    "universal": 0,
+    "tax": 0,
+    "annualReturn": 0,
+    "volatility": 0,
+    "incomeGrowth": 0,
+    "savingSpread": 0,
+    "savingLink": "independent",
+    "savings": [
+      0.1,
+      0.2,
+      0.5,
+      0.8,
+      1
+    ],
+    "ginis": [
+      0,
+      0.2,
+      0.4,
+      0.6
+    ]
+  },
+  "pure": {
+    "agents": 750,
+    "months": 360,
+    "replications": 12,
+    "seed": 20261101,
+    "income": 4000,
+    "initial": 0,
+    "initialGini": 0,
+    "initialLink": "independent",
+    "essentials": 0,
+    "universal": 0,
+    "tax": 0,
+    "annualReturn": 0,
+    "volatility": 0,
+    "incomeGrowth": 0,
+    "savingSpread": 0,
+    "savingLink": "independent",
+    "savings": [
+      0.1,
+      0.2,
+      0.5,
+      0.8,
+      1
+    ],
+    "ginis": [
+      0,
+      0.2,
+      0.4,
+      0.6
+    ]
+  },
+  "universal": {
+    "agents": 750,
+    "months": 360,
+    "replications": 12,
+    "seed": 20261101,
+    "income": 4000,
+    "initial": 1000,
+    "initialGini": 0,
+    "initialLink": "independent",
+    "essentials": 2000,
+    "universal": 1000,
+    "tax": 0,
+    "annualReturn": 0,
+    "volatility": 0,
+    "incomeGrowth": 0,
+    "savingSpread": 0,
+    "savingLink": "independent",
+    "savings": [
+      0.1,
+      0.2,
+      0.5,
+      0.8,
+      1
+    ],
+    "ginis": [
+      0,
+      0.2,
+      0.4,
+      0.6
+    ]
+  }
+}
