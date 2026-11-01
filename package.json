@@ -1,0 +1,1 @@
+{"name":"money-exchange-lab","version":"2.0.0","private":true,"description":"A portable, reproducible money exchange simulator","scripts":{"test":"node --test tests/*.cjs","build":"node build.cjs"}}
